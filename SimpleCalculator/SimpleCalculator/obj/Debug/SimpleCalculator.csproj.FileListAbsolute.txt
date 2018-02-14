@@ -1,0 +1,9 @@
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.dll.config
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.pdb
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
