@@ -1,0 +1,9 @@
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\RadioButtonChal\RadioButtonChal\RadioButtonChal\bin\RadioButtonChal.dll.config
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\RadioButtonChal\RadioButtonChal\RadioButtonChal\bin\RadioButtonChal.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\RadioButtonChal\RadioButtonChal\RadioButtonChal\bin\RadioButtonChal.pdb
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\RadioButtonChal\RadioButtonChal\RadioButtonChal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\RadioButtonChal\RadioButtonChal\RadioButtonChal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\RadioButtonChal\RadioButtonChal\RadioButtonChal\obj\Debug\RadioButtonChal.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\RadioButtonChal\RadioButtonChal\RadioButtonChal\obj\Debug\RadioButtonChal.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\RadioButtonChal\RadioButtonChal\RadioButtonChal\obj\Debug\RadioButtonChal.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\RadioButtonChal\RadioButtonChal\RadioButtonChal\obj\Debug\RadioButtonChal.pdb
