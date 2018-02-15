@@ -1,0 +1,9 @@
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\DatesBetweenChal\DatesBetweenChal\bin\DatesBetweenChal.dll.config
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\DatesBetweenChal\DatesBetweenChal\bin\DatesBetweenChal.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\DatesBetweenChal\DatesBetweenChal\bin\DatesBetweenChal.pdb
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\DatesBetweenChal\DatesBetweenChal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\DatesBetweenChal\DatesBetweenChal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\DatesBetweenChal\DatesBetweenChal\obj\Debug\DatesBetweenChal.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\DatesBetweenChal\DatesBetweenChal\obj\Debug\DatesBetweenChal.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\DatesBetweenChal\DatesBetweenChal\obj\Debug\DatesBetweenChal.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\DatesBetweenChal\DatesBetweenChal\obj\Debug\DatesBetweenChal.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatesBetweenChal", "DatesBetweenChal\DatesBetweenChal.csproj", "{9BC7CF0F-E9F1-4889-ACBB-893A8F67C3E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC7CF0F-E9F1-4889-ACBB-893A8F67C3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC7CF0F-E9F1-4889-ACBB-893A8F67C3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC7CF0F-E9F1-4889-ACBB-893A8F67C3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC7CF0F-E9F1-4889-ACBB-893A8F67C3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C19BFE51-1ABE-4756-9F08-275D0DA9E8F0}
+	EndGlobalSection
+EndGlobal
