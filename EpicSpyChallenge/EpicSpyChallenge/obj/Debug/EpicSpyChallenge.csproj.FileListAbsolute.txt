@@ -1,0 +1,9 @@
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\EpicSpyChallenge\EpicSpyChallenge\bin\EpicSpyChallenge.dll.config
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\EpicSpyChallenge\EpicSpyChallenge\bin\EpicSpyChallenge.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\EpicSpyChallenge\EpicSpyChallenge\bin\EpicSpyChallenge.pdb
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\EpicSpyChallenge\EpicSpyChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\EpicSpyChallenge\EpicSpyChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\EpicSpyChallenge\EpicSpyChallenge\obj\Debug\EpicSpyChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\EpicSpyChallenge\EpicSpyChallenge\obj\Debug\EpicSpyChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\EpicSpyChallenge\EpicSpyChallenge\obj\Debug\EpicSpyChallenge.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\DatesBetweenChal\EpicSpyChallenge\EpicSpyChallenge\obj\Debug\EpicSpyChallenge.pdb
