@@ -1,0 +1,9 @@
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SpiesAssetTracker\AssetTrackerChallenge\AssetTrackerChallenge\bin\AssetTrackerChallenge.dll.config
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SpiesAssetTracker\AssetTrackerChallenge\AssetTrackerChallenge\bin\AssetTrackerChallenge.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SpiesAssetTracker\AssetTrackerChallenge\AssetTrackerChallenge\bin\AssetTrackerChallenge.pdb
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SpiesAssetTracker\AssetTrackerChallenge\AssetTrackerChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SpiesAssetTracker\AssetTrackerChallenge\AssetTrackerChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SpiesAssetTracker\AssetTrackerChallenge\AssetTrackerChallenge\obj\Debug\AssetTrackerChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SpiesAssetTracker\AssetTrackerChallenge\AssetTrackerChallenge\obj\Debug\AssetTrackerChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SpiesAssetTracker\AssetTrackerChallenge\AssetTrackerChallenge\obj\Debug\AssetTrackerChallenge.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SpiesAssetTracker\AssetTrackerChallenge\AssetTrackerChallenge\obj\Debug\AssetTrackerChallenge.pdb
