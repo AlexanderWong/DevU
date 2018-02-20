@@ -1,0 +1,6 @@
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll.config
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.pdb
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.pdb
