@@ -1,0 +1,7 @@
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\CS-ASP_035-Challenge_Code\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll.config
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\CS-ASP_035-Challenge_Code\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\CS-ASP_035-Challenge_Code\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.pdb
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\CS-ASP_035-Challenge_Code\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\CS-ASP_035-Challenge_Code\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\CS-ASP_035-Challenge_Code\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\CS-ASP_035-Challenge_Code\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.pdb
