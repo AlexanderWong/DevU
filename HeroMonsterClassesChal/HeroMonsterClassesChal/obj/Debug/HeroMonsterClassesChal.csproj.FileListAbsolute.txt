@@ -1,0 +1,9 @@
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\HeroMonsterClassesChallenge\HeroMonsterClassesChal\HeroMonsterClassesChal\bin\HeroMonsterClassesChal.dll.config
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\HeroMonsterClassesChallenge\HeroMonsterClassesChal\HeroMonsterClassesChal\bin\HeroMonsterClassesChal.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\HeroMonsterClassesChallenge\HeroMonsterClassesChal\HeroMonsterClassesChal\bin\HeroMonsterClassesChal.pdb
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\HeroMonsterClassesChallenge\HeroMonsterClassesChal\HeroMonsterClassesChal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\HeroMonsterClassesChallenge\HeroMonsterClassesChal\HeroMonsterClassesChal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\HeroMonsterClassesChallenge\HeroMonsterClassesChal\HeroMonsterClassesChal\obj\Debug\HeroMonsterClassesChal.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\HeroMonsterClassesChallenge\HeroMonsterClassesChal\HeroMonsterClassesChal\obj\Debug\HeroMonsterClassesChal.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\HeroMonsterClassesChallenge\HeroMonsterClassesChal\HeroMonsterClassesChal\obj\Debug\HeroMonsterClassesChal.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\HeroMonsterClassesChallenge\HeroMonsterClassesChal\HeroMonsterClassesChal\obj\Debug\HeroMonsterClassesChal.pdb
