@@ -1,0 +1,11 @@
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleDartsChallenge\SimpleDartsChallenge\SimpleDartsChallenge\bin\SimpleDartsChallenge.dll.config
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleDartsChallenge\SimpleDartsChallenge\SimpleDartsChallenge\bin\SimpleDartsChallenge.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleDartsChallenge\SimpleDartsChallenge\SimpleDartsChallenge\bin\SimpleDartsChallenge.pdb
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleDartsChallenge\SimpleDartsChallenge\SimpleDartsChallenge\bin\Darts.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleDartsChallenge\SimpleDartsChallenge\SimpleDartsChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleDartsChallenge\SimpleDartsChallenge\SimpleDartsChallenge\bin\Darts.pdb
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleDartsChallenge\SimpleDartsChallenge\SimpleDartsChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleDartsChallenge\SimpleDartsChallenge\SimpleDartsChallenge\obj\Debug\SimpleDartsChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleDartsChallenge\SimpleDartsChallenge\SimpleDartsChallenge\obj\Debug\SimpleDartsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleDartsChallenge\SimpleDartsChallenge\SimpleDartsChallenge\obj\Debug\SimpleDartsChallenge.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\SimpleDartsChallenge\SimpleDartsChallenge\SimpleDartsChallenge\obj\Debug\SimpleDartsChallenge.pdb
