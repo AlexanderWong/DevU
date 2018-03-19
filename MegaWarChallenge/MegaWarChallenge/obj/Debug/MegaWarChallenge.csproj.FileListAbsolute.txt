@@ -1,0 +1,9 @@
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MegaWarChallenge\MegaWarChallenge\MegaWarChallenge\bin\MegaWarChallenge.dll.config
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MegaWarChallenge\MegaWarChallenge\MegaWarChallenge\bin\MegaWarChallenge.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MegaWarChallenge\MegaWarChallenge\MegaWarChallenge\bin\MegaWarChallenge.pdb
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MegaWarChallenge\MegaWarChallenge\MegaWarChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MegaWarChallenge\MegaWarChallenge\MegaWarChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MegaWarChallenge\MegaWarChallenge\MegaWarChallenge\obj\Debug\MegaWarChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MegaWarChallenge\MegaWarChallenge\MegaWarChallenge\obj\Debug\MegaWarChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MegaWarChallenge\MegaWarChallenge\MegaWarChallenge\obj\Debug\MegaWarChallenge.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\MegaWarChallenge\MegaWarChallenge\MegaWarChallenge\obj\Debug\MegaWarChallenge.pdb
