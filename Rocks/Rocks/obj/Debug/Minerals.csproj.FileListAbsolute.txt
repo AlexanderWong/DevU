@@ -1,0 +1,13 @@
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\Rocks\Rocks\Rocks\bin\Rocks.dll.config
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\Rocks\Rocks\Rocks\bin\Rocks.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\Rocks\Rocks\Rocks\bin\Rocks.pdb
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\Rocks\Rocks\Rocks\bin\EntityFramework.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\Rocks\Rocks\Rocks\bin\EntityFramework.SqlServer.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\Rocks\Rocks\Rocks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\Rocks\Rocks\Rocks\bin\EntityFramework.xml
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\Rocks\Rocks\Rocks\bin\EntityFramework.SqlServer.xml
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\Rocks\Rocks\Rocks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\Rocks\Rocks\Rocks\obj\Debug\Minerals.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\Rocks\Rocks\Rocks\obj\Debug\Minerals.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\Rocks\Rocks\Rocks\obj\Debug\Rocks.dll
+C:\Users\Tech Academy Student\Documents\Visual Studio 2017\Projects\Rocks\Rocks\Rocks\obj\Debug\Rocks.pdb
